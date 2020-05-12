@@ -1,8 +1,3 @@
---------------------- 05/02/2020 ---------------------
-Added /takehostage
-Fixed car dealer
-Removed extra controls for hazard lights
-
 --------------------- 05/03/2020 ---------------------
 Added spawn select screen
 Changed cruise control to 'comma'
@@ -17,3 +12,8 @@ Pacific bank now sounds alarm and has CCTV access by police
 Added drift course
 Added Mt Chiliad drug hideouts
 Custom YMAPs for parking lots, namely Legion Square
+
+--------------------- 05/12/2020 ---------------------
+Added meth (Cook it like breaking bad w/ van)
+Increased Drug payout
+Fixed rappelling and heli cams for police
