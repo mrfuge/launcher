@@ -14,7 +14,10 @@ Added Mt Chiliad drug hideouts
 Custom YMAPs for parking lots, namely Legion Square
 
 --------------------- 05/12/2020 ---------------------
-Added meth (Cook it like breaking bad w/ van)
-Increased Drug payout
 Fixed rappelling and heli cams for police
 Fixed jail position
+
+--------------------- 05/19/2020 ---------------------
+Fixed character registration
+Fixed CAD integrations
+Lowered decrease for food/water
